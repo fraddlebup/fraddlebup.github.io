@@ -17,13 +17,13 @@ body{
 
 #diarylink {
     position: absolute;
-    top: 855px;
-    left: 355px;
+    top: 763px;
+    left: 683px;
 }
 #password {
-    position: absolute;
-    top: 600px;
-    left: 320px;
+    position: relative;
+    top: 492px;
+    left: 641px;
 }
 a {
   color: rgba(19, 255, 0, 0.35);
