@@ -1,0 +1,39 @@
+body{
+  background-image: url("/images/frnt.png");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#box1{
+  border: 1px solid;
+  height: 300px;
+  width: 300px;
+  background-color: skyblue;
+  position:relative;
+  top:150px;
+  left:150px;
+}
+
+#diarylink {
+    position: absolute;
+    top: 855px;
+    left: 355px;
+}
+#password {
+    position: absolute;
+    top: 600px;
+    left: 320px;
+}
+a {
+  color: rgba(136, 206, 27, 0.12);
+}
+#passwordtext {
+  color:rgb(48, 255, 0);
+  position: absolute;
+  left: 42
+}
+#lname{
+  position:absolute;
+  left: 55px;
+}
